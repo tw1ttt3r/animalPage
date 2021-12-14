@@ -6,5 +6,6 @@
 
 ## Instructions
 
+- Run `yarn install`
 - Run `yarn start`
 - Open in browser `http://localhost:4200/`
